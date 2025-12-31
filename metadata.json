@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bel en sms ",
+  "description": "A futuristic AI-powered virtual phone that allows you to make voice calls to any virtual number without needing a physical SIM card or phone number. Powered by Gemini Live for real-time natural conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
